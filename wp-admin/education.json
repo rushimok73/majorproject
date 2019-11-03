@@ -1,0 +1,97 @@
+[
+    {
+        "school": "tz",
+        "college": "t",
+        "gpa": "t"
+    },
+    {
+        "school": "tz",
+        "college": "t",
+        "gpa": "t"
+    },
+    {
+        "school": "tz",
+        "college": "t",
+        "gpa": "t"
+    },
+    {
+        "school": null,
+        "college": null,
+        "gpa": null
+    },
+    {
+        "school": null,
+        "college": null,
+        "gpa": null
+    },
+    {
+        "school": null,
+        "college": null,
+        "gpa": null
+    },
+    {
+        "school": null,
+        "college": null,
+        "gpa": null
+    },
+    {
+        "school": null,
+        "college": null,
+        "gpa": null
+    },
+    {
+        "school": "s",
+        "college": "s",
+        "gpa": "s"
+    },
+    {
+        "school": "s",
+        "college": "s",
+        "gpa": "s"
+    },
+    {
+        "school": null,
+        "college": null,
+        "gpa": null
+    },
+    {
+        "school": "",
+        "college": null,
+        "gpa": "s"
+    },
+    {
+        "school": "",
+        "college": null,
+        "gpa": "s"
+    },
+    {
+        "school": "q",
+        "college": "q",
+        "gpa": "q"
+    },
+    {
+        "school": "DSRV Malad",
+        "college": "Thakur Kandivali",
+        "gpa": "4.0"
+    },
+    {
+        "school": "tps",
+        "college": "thakur",
+        "gpa": "4"
+    },
+    {
+        "school": "qwe",
+        "college": "qwe",
+        "gpa": "qwe"
+    },
+    {
+        "school": "sri",
+        "college": "sri",
+        "gpa": "sri"
+    },
+    {
+        "school": "as",
+        "college": "as",
+        "gpa": "as"
+    }
+]
